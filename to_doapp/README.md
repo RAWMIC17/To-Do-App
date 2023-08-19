@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## You can find the APK in the Release section
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
